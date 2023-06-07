@@ -1,6 +1,6 @@
-# PedroNacimento
-# Bem-vindo ao meu perfil de desenvolvedor Back-end!
 
+# Bem-vindo ao meu perfil de desenvolvedor Back-end!
+:fishsticks:	
 ## Sobre mim
 Olá! Sou um desenvolvedor Back-end apaixonado por criar soluções robustas e eficientes para problemas complexos. Com experiência em várias tecnologias e frameworks, estou sempre em busca de aprimorar minhas habilidades e aprender novas técnicas.
 
